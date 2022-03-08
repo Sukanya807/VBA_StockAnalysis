@@ -2,7 +2,7 @@
 
 ## Overview of Project
 
-This project has been undertaken to help Steve understand which Green Energy stocks have done well in 2017 and 2018 and are worth investing in. We have calculated the total volume and returns on the basis of tickers. We had earlier written VBA codes to automate the calculation.The link has been provided for the original VBA script  [GitHub_OriginalVBA](https://github.com/Sukanya807/Stocks-Analysis-Practice) For this project, we have refactored the same codes so that the entire stock market can be analyzed more efficiently and quickly.
+This project has been undertaken to help Steve understand which Green Energy stocks have done well in 2017 and 2018 and are worth investing in. We have calculated the total volume and returns on the basis of tickers. We had earlier written VBA codes to automate the calculation.The link has been provided for the original VBA script  [GitHub_OriginalVBA](https://github.com/Sukanya807/Stocks-Analysis-Practice) .For this project, we have refactored the same codes so that the entire stock market can be analyzed more efficiently and quickly.
 
 ## Results
 
